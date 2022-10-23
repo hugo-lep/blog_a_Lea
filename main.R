@@ -16,3 +16,6 @@ blogdown::build_site()
 
 # serve the website locally
 blogdown::serve_site()
+
+usethis::use_git()
+usethis::use_github()
