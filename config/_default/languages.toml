@@ -1,0 +1,14 @@
+[fr]
+title = "Le monde vu par Léa"
+description = "Mon univers en image"
+weight = 1
+LanguageName = "FR"
+contentDir = "content/french"
+
+[en]
+title = "Léa's world"
+description = "Discover my world"
+contentDir = "content/english" 
+weight = 2
+#LanguageDirection = "rtl" 
+LanguageName = "EN"

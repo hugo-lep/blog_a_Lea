@@ -1,0 +1,55 @@
+
+  [[main]]
+  name = "Home"
+  weight = 100  
+  identifier = "home"
+  url = "/en/"
+
+  [[main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/en/post/"
+
+  [[main]]
+  name = "Portfolio"
+  weight = 300
+  identifier = "portfolio"
+  url = "/en/portfolio/"
+
+  [[main]]
+  name = "About"
+  weight = 400
+  identifier = "about"
+  url = "/en/about/"
+
+  [[main]]
+  name = "Accomplishments"
+  weight = 500
+  identifier = "accomplishments"
+
+  [[main]]
+  name = "Awards"
+  weight = 510
+  identifier = "awards"
+  url = "/en/awards/"
+  parent = "accomplishments"  
+
+  [[main]]
+  name = "Certifications"
+  weight = 520
+  identifier = "certifications"
+  url = "/en/certifications/"
+  parent = "accomplishments"
+
+  [[main]]
+  name = "Contact"
+  weight = 600
+  identifier = "contact"
+  url = "/en/contact/"
+
+  [[footer]]
+  name = "imprint"
+  weight = 1
+  identifier = "imprint"
+  url = "/en/imprint/"
