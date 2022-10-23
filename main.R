@@ -1,4 +1,4 @@
-#https://magical-gumdrop-2a6118.netlify.app/
+#https://merry-torte-74bb31.netlify.app/
 #https://r4sites-book.netlify.app/complete-end-to-end-example.html
 #https://bookdown.org/yihui/blogdown/
 library(blogdown)
